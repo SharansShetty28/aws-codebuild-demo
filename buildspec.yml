@@ -1,10 +1,1 @@
-version: 0.2
-
-phases:
-  build:
-    commands:
-      - echo "Hello from AWS CodeBuild!"
-artifacts:
-  files:
-    - '**/*'
-
+echo "Hello from AWS CodeBuild!"
